@@ -1,0 +1,51 @@
+.header-search,
+.header-button{
+  top:8px;
+  position: relative;
+}
+.header-name{
+  top:5px;
+}
+
+.logo-img{
+  border: 1px solid #333;
+  text-align: center;
+  border-radius: 5px;
+}
+.label-success{
+  width: 100%;
+}
+.main-col{
+  height: 300px;
+  border-radius: 5px;
+  border: 1px solid #333;
+  margin: 30px 0;
+}
+.grey-square{
+  top:10px;
+  border: 1px solid #333;
+  background-color: #f8f8f8;
+  height: 150px;
+  border-radius: 5px;
+}
+.ribbon-wrapper-corner {
+		width: 85px;
+		height: 88px;
+		overflow: hidden;
+		position: absolute;
+		top: -3px;
+		right: -3px;
+}
+.ribbon-corner {
+		color: #fff;
+		text-align: center;
+		text-shadow: rgba(255, 255, 255, 0.5) 0 1px 0;
+		transform: rotate(45deg);
+		position: relative;
+		padding: 7px 0;
+		left: -5px;
+		top: 15px;
+		width: 120px;
+		background-color: #791d0d;
+
+}
